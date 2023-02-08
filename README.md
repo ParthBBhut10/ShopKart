@@ -1,6 +1,6 @@
 ShopKart ECommerce Website
 
-Created By : Parth B Bhut , Dhruvil Shah, Vanshil Shah & Sameep Kariya
+Certificate : https://drive.google.com/file/d/15BIaSAArD67WVH2Q_jKjSWph5YQvtyyD/view?usp=sharing
 
 
 ## Run Locally
